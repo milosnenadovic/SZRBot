@@ -1,0 +1,19 @@
+﻿#ime, #prezime, #email {
+    width: 35%;
+    height: auto;
+    font-size: 14px;
+}
+
+#field {
+    margin-top: 20px;
+}
+
+#field > label {
+    font-size: 16px;
+}
+
+#btn {
+    height: auto;
+    font-size: 16px;
+    margin-top: 10px;
+}
